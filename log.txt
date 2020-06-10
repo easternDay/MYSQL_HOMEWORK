@@ -1,0 +1,1 @@
+INSERT INTO Athlete VALUES('小明','计算机','一班','2018','A','1')INSERT INTO Athlete VALUES('小明','计算机','一班','2018','D','3')INSERT INTO Athlete VALUES('小牛','华文','一班','2018','D','3')
